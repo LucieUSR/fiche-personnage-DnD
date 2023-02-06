@@ -1,1 +1,45 @@
+#classe{
+	background-color:#8a6b55;
+	width: 100px;
+	height: 20px;
+	border: solid;
+	border-radius:6px;
+}
+#nom{
+	background-color:#8a6b55;
+	width: 200px;
+	height: 40px;
+	border: solid;
+	border-radius:6px;
+}
 
+img{
+	margin-top: 40px;
+	margin-left:650px;
+}
+
+#aptitude{
+	border:solid;
+	margin-right:100px;
+	float: right;
+	background-color:#8a6b55;
+	width: 250px;
+	height: 400px;
+	padding-left: 20px;
+	border-radius:10px;
+}
+
+body{
+	background-color: black;
+}
+
+#inventaire{
+	border:solid;
+	margin-top: 40px;
+	margin-left:400px;
+	background-color:#8a6b55;
+	width: 900px;
+	height: 200px;
+	padding-left: 20px;
+	border-radius:10px;
+}
