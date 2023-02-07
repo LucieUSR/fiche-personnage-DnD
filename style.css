@@ -1,12 +1,17 @@
+html{
+	background-color: black;
+}
+
+
 #classe{
-	background-color:#8a6b55;
+	background-color:#473225;
 	width: 100px;
 	height: 20px;
 	border: solid;
 	border-radius:6px;
 }
 #nom{
-	background-color:#8a6b55;
+	background-color:#473225;
 	width: 200px;
 	height: 40px;
 	border: solid;
@@ -19,27 +24,52 @@ img{
 }
 
 #aptitude{
+	font-size:20px;
+	
 	border:solid;
-	margin-right:100px;
-	float: right;
-	background-color:#8a6b55;
+	background-color:#473225;
+	box-shadow: ;
 	width: 250px;
 	height: 400px;
-	padding-left: 20px;
+	
+	float: right;
 	border-radius:10px;
-}
-
-body{
-	background-color: black;
+	margin-top:100px;
+	margin-right:200px;
+	padding-left: 50px;
+	padding-top: 50px;
+	
+	
 }
 
 #inventaire{
+	font-size:20px;
+	
 	border:solid;
-	margin-top: 40px;
-	margin-left:400px;
-	background-color:#8a6b55;
+	border-radius:10px;
+	background-color:#473225;
 	width: 900px;
 	height: 200px;
+	
+	padding-top: 50px;
 	padding-left: 20px;
+	margin-top: 40px;
+	margin-left:400px;
+	
+}
+
+#histoire{
+	font-size:20px;
+	
+	border:solid;
 	border-radius:10px;
+	background-color:#473225;
+	width: 900px;
+	height: 200px;
+	
+	padding-top: 50px;
+	padding-left: 20px;
+	margin-top: 40px;
+	margin-left:400px;
+	
 }
